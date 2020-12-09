@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,7 +12,7 @@ Education
 ======
 * B.S. in Public Health, National Taiwan University, 2020
 
-Research experience
+Research Experience
 ======
 * 2019: Undergraduate Researcher
   * Biostatistics & Bioinformatics lab, National Taiwan University
@@ -30,7 +29,7 @@ Research experience
   * Built Diagnosis Related Groups (DRGs) on Ophthalmology using Machine & Deep Learning algorithms.
   * Supervisor: Prof. [Da-Wei Wang](https://www.iis.sinica.edu.tw/pages/wdw/vita_zh.html)
 
-Work experience
+Work Experience
 ======
 * Fall 2020: Research Assistant
   * Taiwan Public Health Association
