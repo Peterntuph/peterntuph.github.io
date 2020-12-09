@@ -85,31 +85,31 @@ author:
   bio              : "A former undergraduate student in Public Health at National Taiwan University"
   location         : "Taipei, Taiwan"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            : mailto:b05801047@ntu.edu.tw
+  pubmed           : 
+  googlescholar    : 
+  email            : "b05801047@ntu.edu.tw"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/peter.ya.180
   foursquare       :
-  github           : "academicpages"
+  github           : https://github.com/Peterntuph
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : ""
+  linkedin         : http://linkedin.com/in/冠宏-葉-20458a160
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
