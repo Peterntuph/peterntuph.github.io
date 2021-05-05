@@ -10,10 +10,10 @@ redirect_from:
 
 Education
 ======
-* MSc. in Statistcs (Biostatistics Concentration), University of British Columbia, 2023 (Expected)
+* MSc. in Statistcs (Biostatistics Concentration), University of British Columbia, 2023 (Expected) <br>
   Supervised by Prof. [Yongjin Park](https://ypark.github.io/) 
 
-* B.S. in Public Health, National Taiwan University, 2020
+* B.S. in Public Health, National Taiwan University, 2020 <br>
   Supervised by Prof. [Tzu-Pin Lu](https://scholars.lib.ntu.edu.tw/cris/rp/rp06647/information.html) 
 
 Research Experience
