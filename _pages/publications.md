@@ -13,4 +13,4 @@ author_profile: true
 doi: 10.1109/BIBM49941.2020.9313373
 
 ### Journal Paper
-* Han-Ching Chan., Chi-Cheng Huang., Ching-Chieh Huang., Amrita Chattopadhyay., **Kuan-Hung Yeh.**, Wen-Chung Lee., Chun-Ju Chiang., Skye Hung-Chun Cheng., Tzu-Pin Lu., (2021) ["Predicting colon cancer-specific survival for the Asian population using national cancer registry data from Taiwan".](https://pubmed.ncbi.nlm.nih.gov/34427821/) *Annals of Surgical Oncology.*  2021 Aug 24. doi: 10.1245/s10434-021-10646-2. PMID: 34427821.
+* Han-Ching Chan., Chi-Cheng Huang., Ching-Chieh Huang., Amrita Chattopadhyay., **Kuan-Hung Yeh.**, Wen-Chung Lee., Chun-Ju Chiang., Skye Hung-Chun Cheng., Tzu-Pin Lu., (2021) ["Predicting Colon Cancer-Specific Survival for the Asian Population Using National Cancer Registry Data from Taiwan".](https://pubmed.ncbi.nlm.nih.gov/34427821/) *Annals of Surgical Oncology.*  2021 Aug 24. doi: 10.1245/s10434-021-10646-2. PMID: 34427821.
