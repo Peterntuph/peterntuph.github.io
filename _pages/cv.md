@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Biostatistcs, University of California, Los Angeles, 2023 (Expected) <br>
+* M.S. in Biostatistics, University of California, Los Angeles, 2023 (Expected) <br>
 
 * B.S. in Public Health, National Taiwan University, 2020 <br>
   Supervised by Prof. [Tzu-Pin Lu](https://scholars.lib.ntu.edu.tw/cris/rp/rp06647/information.html) 
