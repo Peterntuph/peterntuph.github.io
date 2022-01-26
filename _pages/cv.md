@@ -17,6 +17,11 @@ Education
 
 Research Experience
 ======
+* 2021: Graduate Student Researcher
+  * Department of Pathology and Laboratory Medicine, University of California, Los Angeles
+  * Incorporating uncertainty of genetic risk burden into models of absolute/relative risks
+  * Supervisor: Prof. [Bogdan Pasaniuc](https://bogdan.dgsom.ucla.edu/pages/people)
+
 * 2019: Undergraduate Researcher
   * Biostatistics & Bioinformatics lab, National Taiwan University
   * Constructed a robust prognostic model typically for Asian colon cancer patients with Harrell c-index near 0.75.
