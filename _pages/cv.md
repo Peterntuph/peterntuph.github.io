@@ -22,7 +22,7 @@ Research Experience
   * Updating Dual Index Barcode Reagent Quality Control (QC) criteria for FoundationOne® Liquid CDx (F1LCDx) to minimize Index Hopping Effects.
   * Assessing and validating the performance metrics for new PicoGreen dsDNA Quantification (Test Method Validation (TMV)).
   * Launched an early research on updating the new Acceptance Criteria for Precision Study.
-  * Supervisor: Dr. [Chang Xu](https://bogdan.dgsom.ucla.edu/pages/people](https://www.linkedin.com/in/chang-xu-7426a248/)
+  * Supervisor: Dr. [Chang Xu](https://www.linkedin.com/in/chang-xu-7426a248)
 
 * 2021: Graduate Student Researcher
   * Department of Pathology and Laboratory Medicine, University of California, Los Angeles
