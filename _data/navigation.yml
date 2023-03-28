@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /home/
+    url: /home/CV.pdf
     
   - title: "Publications"
     url: /publications/
