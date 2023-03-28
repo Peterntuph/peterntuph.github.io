@@ -1,5 +1,6 @@
 ---
 permalink: /
+classes: wide
 title: "Kuan-Hung Yeh"
 excerpt: "About me"
 author_profile: true
