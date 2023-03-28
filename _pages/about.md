@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Full-time Master Student at the [Department of Biostatistics, UCLA Fielding School of Public Health](https://www.biostat.ucla.edu). My research interests lie at the intersection of **Precision Medicine** and **Statistical Genetics**. My works focus on analyzing large-scale GWAS and epidemiological data to identify the genetic determinants of complex disease, including cancer, metabolic, neuropsychiatric, and aging disorders. I was fascinated by the great impact research has on shaping policies and public health decision-making and gradually form my career goal to bridging the gap between health data research and actionable insight.
+Hi! I'm a 2nd M.S. Student at [Department of Biostatistics](https://www.biostat.ucla.edu), UCLA Fielding School of Public Health with expected graduated date in June. After graduation, I'm going to continue my Ph.D. journey at University of California, San Diego working with [Tiffany Amariuta](https://www.amariutalab.org/). 
 
-Here is my [Blog](https://peterntuph.github.io/home/splash-page/) and [Curriculum Vitae](https://peterntuph.github.io/home/CV.pdf). Thanks for reading and taking the time to comment :)
+I'm a Quantitative Researcher in biomedical science passionate about leveraging the power of molecular diagnostics to fight cancer. With 4+ years of hands-on research experience collaborating with experts in Biotech, National labs, Universities, and Hospitals, my career goal is to turning data into actionable insights to transform Cancer Care & revolutionize Public Health.
+
+Now, I'm working on mediation analysis for a three-arm randomized controlled trial & a PGS-based risk stratification model in survival analysis setting at UCLA. Previously, I worked as a Biostatistician Intern in Foundation Medicine, Inc where I verified the Assay Performance for FoundationOne® Liquid CDx (F1LCDx) and designed a new study criteria for Diagnostic Assay Precision.
+
+Here is my [Blog](https://peterntuph.github.io/home/) and [Curriculum Vitae](https://peterntuph.github.io/home/CV.pdf). Thanks for reading and taking the time to comment :)
