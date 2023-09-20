@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a first-year Ph.D. student in Bioinformatics and Systems Biology at UC San Diego working alongside Prof. [Tiffany Amariuta](https://www.amariutalab.org/). Born and raised in Taipei, Taiwan, Kuan-Hung earned a B.S. in Public Health from National Taiwan University and an M.S. in Biostatistics from UCLA, where he worked with Prof. [Bogdan Pasaniuc](https://bogdan.dgsom.ucla.edu/pages/).
+Hi! I'm a first-year Ph.D. student in Bioinformatics and Systems Biology at UC San Diego working alongside Prof. [Tiffany Amariuta](https://www.amariutalab.org/). Born and raised in Taipei, Taiwan, Kuan-Hung earned a B.S. in Public Health from National Taiwan University and an M.S. in Biostatistics from UCLA.
 
 As a quantitative researcher in the biomedical field, he is passionate about leveraging the power of molecular diagnostics to combat diseases. Further, with a deeply ingrained scientific philosophy to promote "Health for All”, he aims to transform Cancer Care and revolutionize Public Health by translating data into actionable insights.
 
