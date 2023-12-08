@@ -8,10 +8,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a first-year Ph.D. student in Bioinformatics and Systems Biology at UC San Diego working alongside Prof. [Tiffany Amariuta](https://www.amariutalab.org/). Born and raised in Taipei, Taiwan, Kuan-Hung earned a B.S. in Public Health from National Taiwan University and an M.S. in Biostatistics from UCLA.
+Hi! I'm a first-year Ph.D. student in Bioinformatics and Systems Biology at UC San Diego. Born and raised in Taipei, Taiwan, Kuan-Hung earned a B.S. in Public Health from National Taiwan University and an M.S. in Biostatistics from UCLA.
 
-As a quantitative researcher in the biomedical field, he is passionate about leveraging the power of molecular diagnostics to combat diseases. Further, with a deeply ingrained scientific philosophy to promote "Health for All”, he aims to transform Cancer Care and revolutionize Public Health by translating data into actionable insights.
+I'm a Quantitative Researcher in biomedical science passionate about leveraging the power of statistics to improve population health. With 4+ years of hands-on research experience collaborating with experts in Biotech, National labs, Universities, and Hospitals, my career goal is to turn data into actionable insights to transform Cancer Care & revolutionize Public Health.
 
-Currently, Kuan-Hung is particularly interested in developing novel statistical approaches to integrate genetic data across millions of individuals with diverse ancestries and enhance the generalizability of disease risk models, which is necessary for the clinical implementation of personalized preventive medicine.
+Previously at UCLA, I worked on mediation analysis for a three-arm randomized controlled trial & a PGS-based risk stratification model in a survival analysis setting at UCLA. Previously, I worked as a Biostatistician Intern in Foundation Medicine, Inc. where I verified the Assay Performance for FoundationOne® Liquid CDx (F1LCDx) and designed a new study criteria for Diagnostic Assay Precision.
 
-Here are my [Blog](https://peterntuph.github.io/home/) and [Curriculum Vitae](https://peterntuph.github.io/home/CV.pdf). Thanks for reading and taking the time to comment :)
+Here is my [Blog](https://peterntuph.github.io/home/) and [Curriculum Vitae](https://peterntuph.github.io/home/CV.pdf). Thanks for reading and taking the time to comment :)
