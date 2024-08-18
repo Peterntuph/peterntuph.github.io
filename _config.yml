@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kuan-Hung (Peter) Yeh's Website"
 title_separator          : "-"
 name                     : &name "Kuan-Hung (Peter) Yeh"
-description              : &description "A master student at UCLA Biostatistics"
+description              : &description "A PhD student at UCSD Biomedical Informatics"
 url                      : https://peterntuph.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peterntuph/peterntuph.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kuan-Hung (Peter) Yeh"
   avatar           : https://raw.githubusercontent.com/Peterntuph/peterntuph.github.io/master/bio.jpeg
-  bio              : "A master student at UCLA Biostatistics"
+  bio              : "A PhD student at UCSD Biomedical Informatics"
   location         : "San Diego, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=7YYTl3IAAAAJ&hl=zh-TW&oi=ao"
-  email            : "khyeh0816@g.ucla.edu"
+  email            : "k1yeh@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
