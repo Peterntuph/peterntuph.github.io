@@ -8,10 +8,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a second-year Ph.D. student in Bioinformatics and Systems Biology at UC San Diego. Born and raised in Taipei, Taiwan, Kuan-Hung earned a B.S. in Public Health from National Taiwan University and an M.S. in Biostatistics from UCLA.
+Kuan-Hung (Peter) Yeh is a third-year Ph.D. student in Biomedical Informatics at the University of California, San Diego. With over five years of experience in biostatistics and real-world data science, his research focuses on statistical modeling, causal inference, and survival analysis using claims and EHR datasets.
 
-I'm a quantitative researcher in biomedical science who is passionate about leveraging the power of statistics to improve population health. With 4+ years of hands-on research experience collaborating with experts in Biotech, National labs, Universities, and Hospitals, my career goal is to turn data into actionable insights to transform Cancer Care & revolutionize Public Health.
+He has collaborated with clinical teams, biotech companies, and academic institutions to generate real-world evidence that informs clinical decision-making and improves treatment strategies. His work has contributed to projects in gastroenterology, cardiology, oncology, and precision medicine, with publications in Clinical Gastroenterology and Hepatology, Hypertension and Annals of Surgical Oncology, etc.
 
-Previously at UCLA, I worked on mediation analysis for a three-arm randomized controlled trial & a PGS-based risk stratification model in a survival analysis setting at UCLA. Previously, I worked as a Biostatistician Intern in Foundation Medicine, Inc. where I verified the Assay Performance for FoundationOne® Liquid CDx (F1LCDx) and designed a new study criteria for Diagnostic Assay Precision.
+Previously, Yeh earned an M.S. in Biostatistics from UCLA and a B.S. in Public Health from National Taiwan University. His professional experience includes developing diagnostic assay precision criteria as a Biostatistician Intern at Foundation Medicine, designing survival data pipelines for polygenic risk stratification at UCLA, and building the first Asian colon cancer prognostic model at NTU.
+
+His career goal is to advance cancer care and public health by translating complex biomedical data into actionable insights through innovative statistical methods and real-world evidence.
 
 Here is my [Blog](https://peterntuph.github.io/home/) and [Curriculum Vitae](https://peterntuph.github.io/home/CV.pdf). Thanks for reading and taking the time to comment :)
