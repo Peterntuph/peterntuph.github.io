@@ -47,5 +47,4 @@ author_profile: true
 8. Pandita, P., Lee, H. H., **Yeh, K. H.**, Haynesworth, A., ..., Singh, S.\* (2025). "Tu1856: Treatment Sequencing: Long-Term Outcomes of an Infliximab-First vs. Ustekinumab-First Treatment Strategy in Biologic-Naive Patients with Crohn's Disease." Digestive Disease Week (DDW) 2025. *Gastroenterology*, 169(1), S-1525.
 9. **Yeh, K. H.**, Lu, T. P. (2019). "Using National Cancer Registry Data to Develop a Prediction Model for Colon Cancer in Taiwan." 2019 Taiwan Public Health Joint Annual Conference, Taipei, Taiwan. Poster Presentation.
 
-*Last updated: July 2026*aiwan." *In: 2019 Taiwan Public Health Joint Annual Conference, Taipei, Taiwan.*
-* **Kuan-Hung Yeh**, Yi Ding, Bogdan Pasaniuc. (2023) “Impact of genetic architecture in fitting polygenic scores in Cox Proportional Hazards Models.” *Poster presentation at 2023 American Society of Human Genetics (ASHG).*
+*Last updated: July 2026*
