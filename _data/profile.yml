@@ -17,14 +17,16 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a Ph.D. candidate in Biomedical Informatics at the University of California, San Diego,
-    advised by Dr. Ronghui Xu and Dr. Siddharth Singh.
+    advised by Dr. Ronghui Xu and Dr. Siddharth Singh. I am especially interested in how real-world evidence informs
+    evidence-based decisions across drug discovery, clinical development, regulatory
   </p>
   <p>
-    My research focuses on statistical methodology for causal inference to generate regulatory-grade
-    real-world evidence. I evaluate treatment safety and effectiveness in gastroenterology using
-    large-scale claims and EHR data (Optum, Epic Cosmos), with target trial emulation, propensity score
-    methods, and survival analysis. My dissertation develops data-fusion methods for indirect treatment
-    comparisons across randomized trials, for settings where head-to-head evidence is not available.
+    My research focuses on statistical methodology and its application to causal inference to generate
+    regulatory-grade real-world evidence. My dissertation spans both. Methodologically, I develop
+    data-fusion methods for indirect treatment comparisons across randomized trials when head-to-head
+    evidence is unavailable. In application, I conduct observational studies of treatment safety and
+    effectiveness in gastroenterology, using large-scale claims and EHR data (Optum, Epic Cosmos) with
+    target trial emulation, propensity score methods, and survival analysis. 
   </p>
   <p>
     I am currently an FDA-OCE-ASA Oncology Educational Fellow (2026–2027), one of 20 fellows selected
@@ -43,7 +45,7 @@ education:
 - name: University of California, San Diego
   logo: /assets/images/badges/ucsd.png
   position: Ph.D. in Biomedical Informatics
-  date: 2023 – Mar. 2028 (expected)
+  date: 2023 – Jun. 2028 (expected)
 - name: University of California, Los Angeles
   logo: /assets/images/badges/ucla.png
   position: M.S. in Biostatistics
