@@ -8,9 +8,9 @@ positions:
 
 email: "k1yeh@ucsd.edu"
 cv_link: /assets/files/CV.pdf
-# gscholar: YOUR_SCHOLAR_ID   # the part after "user=" in your Google Scholar URL
+gscholar: fAAtJa0AAAAJ
 github: Peterntuph
-# linkedin: YOUR_LINKEDIN_ID  # the part after "linkedin.com/in/"
+linkedin: kuan-hung-yeh-20458a160
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
@@ -37,32 +37,22 @@ short_bio: >-
     National Taiwan University, and worked as a Biostatistician Intern at Foundation Medicine, Inc.
   </p>
 
-# portrait_url: /assets/images/photos/portrait.jpg   # uncomment after uploading your photo
+portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: University of California, San Diego
+  logo: /assets/images/badges/ucsd.png
   position: Ph.D. in Biomedical Informatics
   date: 2023 – Mar. 2028 (expected)
 - name: University of California, Los Angeles
+  logo: /assets/images/badges/ucla.png
   position: M.S. in Biostatistics
   date: 2021 – 2023
 - name: National Taiwan University
+  logo: /assets/images/badges/ntu.png
   position: B.S. in Public Health (Biostatistics Track)
   date: 2016 – 2020
 
-experience:
-- name: FDA Oncology Center of Excellence &amp; ASA
-  position: Oncology Educational Fellow
-  date: Oct. 2026 – May 2027
-- name: Department of Biomedical Informatics, UCSD Health
-  position: Graduate Researcher
-  date: Jan. 2024 – present
-- name: UCLA Computational Medicine &amp; Medicine Statistics
-  position: Graduate Consultant
-  date: May 2022 – Jun. 2023
-- name: Foundation Medicine, Inc.
-  position: Biostatistician Intern
-  date: Jun. 2022 – Sep. 2022
 
 awards:
 - name: FDA-OCE-ASA Oncology Educational Fellow
